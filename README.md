@@ -7,5 +7,6 @@ This repository contains some codes/solutions to classical problems.
 > Algorithms
 - Diagonal Difference
 - Plus Minus
+- Staircase
 
 > Data Structures
